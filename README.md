@@ -1,0 +1,2 @@
+# LLM-Based-Split-Learning-for-Privacy-Preserving-Mental-Stress-Detection-Across-Heterogeneous-Surveys
+A privacy-preserving split learning framework for mental health prediction. It converts survey responses to text and trains an LLM split between institutions and a server, so raw data never leaves its owner. The goal is to let institutions with different surveys build one shared, accurate model without sharing data.
