@@ -482,6 +482,4 @@ was used to:
   source datasets from generated data and result files; and
 - edit and format the README and supporting documentation.
 
-All AI-assisted outputs were reviewed and verified by the authors, who take
-full responsibility for the content of this repository and the accompanying
-paper.
+All AI-assisted outputs were reviewed and verified by the authors.
