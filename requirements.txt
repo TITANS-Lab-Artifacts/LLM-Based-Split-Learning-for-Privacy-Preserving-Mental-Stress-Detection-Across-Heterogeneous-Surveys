@@ -1,0 +1,12 @@
+# Packages imported by the code. Versions used for the paper were not recorded.
+torch
+transformers
+peft
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+openpyxl
+packaging
+# Optional: flash-attn (falls back to SDPA attention if missing)
