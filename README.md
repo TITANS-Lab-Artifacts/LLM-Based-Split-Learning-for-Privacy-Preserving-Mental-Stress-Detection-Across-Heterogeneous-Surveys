@@ -5,6 +5,8 @@ Code and original source datasets for the paper of the same name.
 **Md Khalid Syfullah and Alvi Ataur Khalil**
 Transformative Innovation for Trustworthy AI and Network Security (TITANS) Lab, Computer Science, Southern Illinois University Carbondale, USA
 `{mdkhalid.syfullah, a.khalil}@siu.edu`
+Paper link (Preprint): https://arxiv.org/pdf/2609.15871
+Accepted and Presented on IEEE HealthCom 2026. Published Paper Link will be added as soon as it becomes online.
 
 This repository contains the code and the four original (raw) source datasets
 only. Processed datasets, trained models, logs, result files, and generated
